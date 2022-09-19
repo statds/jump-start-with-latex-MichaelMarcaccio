@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.9.13)  19 SEP 2022 16:15
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.9.13)  19 SEP 2022 16:22
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -344,13 +344,13 @@ Package rerunfilecheck Info: File `Manuscript.out' has not changed.
 Here is how much of TeX's memory you used:
  9433 strings out of 475075
  148486 string characters out of 5783001
- 503625 words of memory out of 5000000
+ 503623 words of memory out of 5000000
  30725 multiletter control sequences out of 15000+600000
  471826 words of font info for 37 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  72i,6n,77p,647b,436s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on Manuscript.pdf (2 pages, 43679 bytes).
+Output written on Manuscript.pdf (2 pages, 43631 bytes).
 PDF statistics:
  49 PDF objects out of 1000 (max. 8388607)
  38 compressed objects within 1 object stream
