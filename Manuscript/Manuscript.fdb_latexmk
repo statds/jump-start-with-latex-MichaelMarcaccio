@@ -1,9 +1,9 @@
 # Fdb version 3
-["pdflatex"] 1663615965 "c:/Users/micha/OneDrive/Documents/GitHub/jump-start-with-latex-MichaelMarcaccio/jump-start-with-latex-MichaelMarcaccio/Manuscript/Manuscript.tex" "Manuscript.pdf" "Manuscript" 1663615969
-  "Manuscript.aux" 1663615969 829 c1240ef62d1a85043200dabfe19206e2 "pdflatex"
-  "Manuscript.out" 1663615969 262 1f61edf67659e472faed350934b96d9a "pdflatex"
-  "Manuscript.tex" 1663615956 2696 ed8b15b3bb996f25fbaea4121c814552 ""
-  "c:/Users/micha/OneDrive/Documents/GitHub/jump-start-with-latex-MichaelMarcaccio/jump-start-with-latex-MichaelMarcaccio/Manuscript/Manuscript.tex" 1663615956 2696 ed8b15b3bb996f25fbaea4121c814552 ""
+["pdflatex"] 1663617741 "c:/Users/micha/OneDrive/Documents/GitHub/jump-start-with-latex-MichaelMarcaccio/jump-start-with-latex-MichaelMarcaccio/Manuscript/Manuscript.tex" "Manuscript.pdf" "Manuscript" 1663617747
+  "Manuscript.aux" 1663617747 829 c1240ef62d1a85043200dabfe19206e2 "pdflatex"
+  "Manuscript.out" 1663617747 262 1f61edf67659e472faed350934b96d9a "pdflatex"
+  "Manuscript.tex" 1663617739 2733 48663aa79fffbfc78abe5c5962247620 ""
+  "c:/Users/micha/OneDrive/Documents/GitHub/jump-start-with-latex-MichaelMarcaccio/jump-start-with-latex-MichaelMarcaccio/Manuscript/Manuscript.tex" 1663617739 2733 48663aa79fffbfc78abe5c5962247620 ""
   "c:/texlive/2022/texmf-dist/fonts/map/fontname/texfonts.map" 1663114966 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "c:/texlive/2022/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1663113510 1004 54797486969f23fa377b128694d548df ""
   "c:/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1663114148 1324 c910af8c371558dc20f2d7822f66fe64 ""
@@ -22,6 +22,7 @@
   "c:/texlive/2022/texmf-dist/tex/generic/etexcmds/etexcmds.sty" 1663114757 7734 b98cbb34c81f667027c1e3ebdbfce34b ""
   "c:/texlive/2022/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty" 1663115071 8371 9d55b8bd010bc717624922fb3477d92e ""
   "c:/texlive/2022/texmf-dist/tex/generic/iftex/iftex.sty" 1663115396 7237 bdd120a32c8fdb4b433cf9ca2e7cd98a ""
+  "c:/texlive/2022/texmf-dist/tex/generic/iftex/ifvtex.sty" 1663115396 1057 525c2192b5febbd8c1f662c9468335bb ""
   "c:/texlive/2022/texmf-dist/tex/generic/infwarerr/infwarerr.sty" 1663115419 8356 7bbb2c2373aa810be568c29e333da8ed ""
   "c:/texlive/2022/texmf-dist/tex/generic/intcalc/intcalc.sty" 1663115435 31769 002a487f55041f8e805cfbf6385ffd97 ""
   "c:/texlive/2022/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty" 1663115589 5412 d5a2436094cd7be85769db90f29250a6 ""
@@ -43,6 +44,7 @@
   "c:/texlive/2022/texmf-dist/tex/latex/base/inputenc.sty" 1663115625 5048 84b05796b49b69e2d4257d537721c960 ""
   "c:/texlive/2022/texmf-dist/tex/latex/base/size12.clo" 1663115625 8449 7fbdc9c8596083427317c1e525489c81 ""
   "c:/texlive/2022/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty" 1663114719 13886 d1306dcf79a944f6988e688c1785f9ce ""
+  "c:/texlive/2022/texmf-dist/tex/latex/geometry/geometry.sty" 1663115060 41601 9cf6c5257b1bc7af01a58859749dd37a ""
   "c:/texlive/2022/texmf-dist/tex/latex/graphics-cfg/graphics.cfg" 1663115166 1224 978390e9c2234eab29404bc21b268d1e ""
   "c:/texlive/2022/texmf-dist/tex/latex/graphics-def/pdftex.def" 1663115167 19103 48d29b6e2a64cb717117ef65f107b404 ""
   "c:/texlive/2022/texmf-dist/tex/latex/graphics/graphics.sty" 1663115165 18387 8f900a490197ebaf93c02ae9476d4b09 ""
