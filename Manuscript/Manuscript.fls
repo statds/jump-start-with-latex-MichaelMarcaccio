@@ -568,6 +568,11 @@ INPUT c:/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm
 INPUT c:/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmex10.tfm
 INPUT c:/texlive/2022/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm
 INPUT c:/texlive/2022/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
+INPUT ./cars.pdf
+INPUT ./cars.pdf
+INPUT cars.pdf
+INPUT ./cars.pdf
+INPUT ./cars.pdf
 INPUT c:/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map
 INPUT Manuscript.aux
 INPUT ./Manuscript.out

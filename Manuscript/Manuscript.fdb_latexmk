@@ -1,9 +1,9 @@
 # Fdb version 3
-["pdflatex"] 1663694413 "c:/Users/micha/OneDrive/Documents/GitHub/jump-start-with-latex-MichaelMarcaccio/jump-start-with-latex-MichaelMarcaccio/Manuscript/Manuscript.tex" "Manuscript.pdf" "Manuscript" 1663694414
-  "Manuscript.aux" 1663694414 1074 f7937ee6bff13c314a36e34560640695 "pdflatex"
-  "Manuscript.out" 1663694414 262 1f61edf67659e472faed350934b96d9a "pdflatex"
-  "Manuscript.tex" 1663694411 3541 fa1e672300f5de86a288a1ba7c224424 ""
-  "c:/Users/micha/OneDrive/Documents/GitHub/jump-start-with-latex-MichaelMarcaccio/jump-start-with-latex-MichaelMarcaccio/Manuscript/Manuscript.tex" 1663694411 3541 fa1e672300f5de86a288a1ba7c224424 ""
+["pdflatex"] 1663695097 "c:/Users/micha/OneDrive/Documents/GitHub/jump-start-with-latex-MichaelMarcaccio/jump-start-with-latex-MichaelMarcaccio/Manuscript/Manuscript.tex" "Manuscript.pdf" "Manuscript" 1663695099
+  "Manuscript.aux" 1663695099 1274 d4a1e545741b3aaaaaf8e6c17d73fe81 "pdflatex"
+  "Manuscript.out" 1663695099 262 1f61edf67659e472faed350934b96d9a "pdflatex"
+  "Manuscript.tex" 1663694746 3772 df662391ead76d4e978bb5bc5cbe0789 ""
+  "c:/Users/micha/OneDrive/Documents/GitHub/jump-start-with-latex-MichaelMarcaccio/jump-start-with-latex-MichaelMarcaccio/Manuscript/Manuscript.tex" 1663694746 3772 df662391ead76d4e978bb5bc5cbe0789 ""
   "c:/texlive/2022/texmf-dist/fonts/map/fontname/texfonts.map" 1663114966 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "c:/texlive/2022/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1663113510 1004 54797486969f23fa377b128694d548df ""
   "c:/texlive/2022/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1663113510 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -80,6 +80,7 @@
   "c:/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1663118409 4635069 7677ee69604aae14ed48b153c111a7f7 ""
   "c:/texlive/2022/texmf-var/web2c/pdftex/pdflatex.fmt" 1663118630 3059242 baf4ed817a4e59237c53fa7ae4057ec5 ""
   "c:/texlive/2022/texmf.cnf" 1663118376 713 e69b156964470283e0530f5060668171 ""
+  "cars.pdf" 1663694779 6834 dc90c34412a23e22151661e112b51231 ""
   (generated)
   "Manuscript.aux"
   "Manuscript.log"
