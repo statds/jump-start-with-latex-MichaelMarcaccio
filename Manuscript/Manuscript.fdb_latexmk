@@ -1,9 +1,9 @@
 # Fdb version 3
-["pdflatex"] 1663694264 "c:/Users/micha/OneDrive/Documents/GitHub/jump-start-with-latex-MichaelMarcaccio/jump-start-with-latex-MichaelMarcaccio/Manuscript/Manuscript.tex" "Manuscript.pdf" "Manuscript" 1663694265
-  "Manuscript.aux" 1663694265 1074 f7937ee6bff13c314a36e34560640695 "pdflatex"
-  "Manuscript.out" 1663694265 262 1f61edf67659e472faed350934b96d9a "pdflatex"
-  "Manuscript.tex" 1663694260 3541 fa1e672300f5de86a288a1ba7c224424 ""
-  "c:/Users/micha/OneDrive/Documents/GitHub/jump-start-with-latex-MichaelMarcaccio/jump-start-with-latex-MichaelMarcaccio/Manuscript/Manuscript.tex" 1663694260 3541 fa1e672300f5de86a288a1ba7c224424 ""
+["pdflatex"] 1663694413 "c:/Users/micha/OneDrive/Documents/GitHub/jump-start-with-latex-MichaelMarcaccio/jump-start-with-latex-MichaelMarcaccio/Manuscript/Manuscript.tex" "Manuscript.pdf" "Manuscript" 1663694414
+  "Manuscript.aux" 1663694414 1074 f7937ee6bff13c314a36e34560640695 "pdflatex"
+  "Manuscript.out" 1663694414 262 1f61edf67659e472faed350934b96d9a "pdflatex"
+  "Manuscript.tex" 1663694411 3541 fa1e672300f5de86a288a1ba7c224424 ""
+  "c:/Users/micha/OneDrive/Documents/GitHub/jump-start-with-latex-MichaelMarcaccio/jump-start-with-latex-MichaelMarcaccio/Manuscript/Manuscript.tex" 1663694411 3541 fa1e672300f5de86a288a1ba7c224424 ""
   "c:/texlive/2022/texmf-dist/fonts/map/fontname/texfonts.map" 1663114966 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "c:/texlive/2022/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1663113510 1004 54797486969f23fa377b128694d548df ""
   "c:/texlive/2022/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1663113510 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -76,7 +76,10 @@
   "c:/texlive/2022/texmf-dist/tex/latex/refcount/refcount.sty" 1663117062 9878 9e94e8fa600d95f9c7731bb21dfb67a4 ""
   "c:/texlive/2022/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty" 1663117083 9714 ba3194bd52c8499b3f1e3eb91d409670 ""
   "c:/texlive/2022/texmf-dist/tex/latex/url/url.sty" 1663118063 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
+  "c:/texlive/2022/texmf-dist/web2c/texmf.cnf" 1663113397 40171 cdab547de63d26590bebb3baff566530 ""
   "c:/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1663118409 4635069 7677ee69604aae14ed48b153c111a7f7 ""
+  "c:/texlive/2022/texmf-var/web2c/pdftex/pdflatex.fmt" 1663118630 3059242 baf4ed817a4e59237c53fa7ae4057ec5 ""
+  "c:/texlive/2022/texmf.cnf" 1663118376 713 e69b156964470283e0530f5060668171 ""
   (generated)
   "Manuscript.aux"
   "Manuscript.log"
