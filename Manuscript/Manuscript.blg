@@ -3,27 +3,26 @@ Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: Manuscript.aux
 The style file: chicago.bst
 Database file #1: Citations.bib
-Warning--no number and no volume in Baramidze
 You've used 2 entries,
             2861 wiz_defined-function locations,
-            627 strings with 5041 characters,
-and the built_in function-call counts, 1152 in all, are:
+            628 strings with 5042 characters,
+and the built_in function-call counts, 1159 in all, are:
 = -- 102
 > -- 52
 < -- 0
 + -- 12
 - -- 20
-* -- 87
+* -- 92
 := -- 217
 add.period$ -- 6
 call.type$ -- 2
 change.case$ -- 12
 chr.to.int$ -- 2
-cite$ -- 3
-duplicate$ -- 35
-empty$ -- 86
+cite$ -- 2
+duplicate$ -- 36
+empty$ -- 87
 format.name$ -- 20
-if$ -- 206
+if$ -- 207
 int.to.chr$ -- 1
 int.to.str$ -- 0
 missing$ -- 2
@@ -36,13 +35,12 @@ quote$ -- 0
 skip$ -- 35
 stack$ -- 0
 substring$ -- 84
-swap$ -- 11
+swap$ -- 12
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 40
-warning$ -- 1
+warning$ -- 0
 while$ -- 24
 width$ -- 0
 write$ -- 28
-(There was 1 warning)

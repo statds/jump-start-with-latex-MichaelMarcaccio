@@ -8,6 +8,7 @@ AUTHORNAME (2017).
 \bibitem[\protect\citeauthoryear{Baramidze}{Baramidze}{2013}]{Baramidze}
 Baramidze, V. (2013).
 \newblock Latex for technical writing.
-\newblock {\em Journal of Technical Science and Technologies\/}, 45--48.
+\newblock {\em Journal of Technical Science and Technologies\/}~{\em 5\/}(2),
+  45--48.
 
 \end{thebibliography}
