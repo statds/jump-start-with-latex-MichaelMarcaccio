@@ -587,6 +587,10 @@ INPUT ./cars.pdf
 INPUT cars.pdf
 INPUT ./cars.pdf
 INPUT ./cars.pdf
+INPUT ./Manuscript.bbl
+INPUT Manuscript.bbl
+INPUT ./Manuscript.bbl
+INPUT Manuscript.bbl
 INPUT Manuscript.aux
 INPUT ./Manuscript.out
 INPUT ./Manuscript.out

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.9.13)  22 SEP 2022 21:59
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.9.13)  22 SEP 2022 22:04
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -350,23 +350,27 @@ File: cars.pdf Graphic file (type pdf)
 <use cars.pdf>
 Package pdftex.def Info: cars.pdf  used on input line 86.
 (pdftex.def)             Requested size: 469.75502pt x 313.1854pt.
- [2] [3 <./cars.pdf>] (./Manuscript.aux)
+ [2] (./Manuscript.bbl
+
+LaTeX Warning: Empty `thebibliography' environment on input line 3.
+
+) [3 <./cars.pdf>] (./Manuscript.aux)
 Package rerunfilecheck Info: File `Manuscript.out' has not changed.
 (rerunfilecheck)             Checksum: 64D8301707C5F11A78E865F365BA9660;366.
  ) 
 Here is how much of TeX's memory you used:
- 9542 strings out of 475075
- 149980 string characters out of 5783001
+ 9548 strings out of 475075
+ 150064 string characters out of 5783001
  505105 words of memory out of 5000000
- 30817 multiletter control sequences out of 15000+600000
+ 30819 multiletter control sequences out of 15000+600000
  475546 words of font info for 50 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  72i,8n,77p,616b,434s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on Manuscript.pdf (3 pages, 104596 bytes).
+Output written on Manuscript.pdf (3 pages, 104828 bytes).
 PDF statistics:
- 93 PDF objects out of 1000 (max. 8388607)
- 69 compressed objects within 1 object stream
- 12 named destinations out of 1000 (max. 500000)
+ 95 PDF objects out of 1000 (max. 8388607)
+ 71 compressed objects within 1 object stream
+ 13 named destinations out of 1000 (max. 500000)
  38 words of extra memory for PDF output out of 10000 (max. 10000000)
 

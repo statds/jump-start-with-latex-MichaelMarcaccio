@@ -1,9 +1,17 @@
 # Fdb version 3
-["pdflatex"] 1663898353 "c:/Users/micha/OneDrive/Documents/GitHub/Project/jump-start-with-latex-MichaelMarcaccio/Manuscript/Manuscript.tex" "Manuscript.pdf" "Manuscript" 1663898355
-  "Manuscript.aux" 1663898355 1369 62ba231298adee3191d539eae1d97280 "pdflatex"
-  "Manuscript.out" 1663898355 366 64d8301707c5f11a78e865f365ba9660 "pdflatex"
-  "Manuscript.tex" 1663898352 4093 8ce305a93eb8302ee2a4c07ef119a6fa ""
-  "c:/Users/micha/OneDrive/Documents/GitHub/Project/jump-start-with-latex-MichaelMarcaccio/Manuscript/Manuscript.tex" 1663898352 4093 8ce305a93eb8302ee2a4c07ef119a6fa ""
+["bibtex Manuscript"] 1663898642 "Manuscript.aux" "Manuscript.bbl" "Manuscript" 1663898646
+  "Manuscript.aux" 1663898645 1414 8500fc8b935942a25327c368b651b88c "pdflatex"
+  "Placeholder.bib" 1663898571 156 ea41e7ed62f75a9109febab7a6516498 ""
+  "c:/texlive/2022/texmf-dist/bibtex/bst/chicago/chicago.bst" 1663114094 37416 2ae04276c51f11eda70770f4081293b7 ""
+  (generated)
+  "Manuscript.bbl"
+  "Manuscript.blg"
+["pdflatex"] 1663898643 "c:/Users/micha/OneDrive/Documents/GitHub/Project/jump-start-with-latex-MichaelMarcaccio/Manuscript/Manuscript.tex" "Manuscript.pdf" "Manuscript" 1663898646
+  "Manuscript.aux" 1663898645 1414 8500fc8b935942a25327c368b651b88c "pdflatex"
+  "Manuscript.bbl" 1663898643 49 0eba253fc001332e731e8aba3f23127b "bibtex Manuscript"
+  "Manuscript.out" 1663898645 366 64d8301707c5f11a78e865f365ba9660 "pdflatex"
+  "Manuscript.tex" 1663898641 4156 1ebfb7644f6c57c038e0755ea7dfc82f ""
+  "c:/Users/micha/OneDrive/Documents/GitHub/Project/jump-start-with-latex-MichaelMarcaccio/Manuscript/Manuscript.tex" 1663898641 4156 1ebfb7644f6c57c038e0755ea7dfc82f ""
   "c:/texlive/2022/texmf-dist/fonts/map/fontname/texfonts.map" 1663114966 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "c:/texlive/2022/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1663113510 1004 54797486969f23fa377b128694d548df ""
   "c:/texlive/2022/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1663113510 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
