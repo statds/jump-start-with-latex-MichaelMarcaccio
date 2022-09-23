@@ -1,3 +1,13 @@
 \begin{thebibliography}{}
 
+\bibitem[\protect\citeauthoryear{AUTHORNAME}{AUTHORNAME}{2017}]{Babu}
+AUTHORNAME (2017).
+\newblock Titlename.
+\newblock {\em JOURNALNAME\/}~{\em 4\/}(12), 354--357.
+
+\bibitem[\protect\citeauthoryear{Baramidze}{Baramidze}{2013}]{baramidze2013latex}
+Baramidze, V. (2013).
+\newblock Latex for technical writing.
+\newblock {\em Journal of Technical Science and Technologies\/}, 45--48.
+
 \end{thebibliography}
