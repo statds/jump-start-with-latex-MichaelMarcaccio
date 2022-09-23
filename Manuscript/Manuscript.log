@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.9.13)  22 SEP 2022 21:36
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.9.13)  22 SEP 2022 21:59
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -345,28 +345,28 @@ Package hyperref Info: Link coloring OFF on input line 15.
  [1
 
 {c:/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-<cars.pdf, id=32, 433.62pt x 289.08pt>
+<cars.pdf, id=33, 433.62pt x 289.08pt>
 File: cars.pdf Graphic file (type pdf)
 <use cars.pdf>
-Package pdftex.def Info: cars.pdf  used on input line 84.
+Package pdftex.def Info: cars.pdf  used on input line 86.
 (pdftex.def)             Requested size: 469.75502pt x 313.1854pt.
- [2 <./cars.pdf>] [3] (./Manuscript.aux)
+ [2] [3 <./cars.pdf>] (./Manuscript.aux)
 Package rerunfilecheck Info: File `Manuscript.out' has not changed.
-(rerunfilecheck)             Checksum: 1F61EDF67659E472FAED350934B96D9A;262.
+(rerunfilecheck)             Checksum: 64D8301707C5F11A78E865F365BA9660;366.
  ) 
 Here is how much of TeX's memory you used:
- 9541 strings out of 475075
- 149968 string characters out of 5783001
+ 9542 strings out of 475075
+ 149980 string characters out of 5783001
  505105 words of memory out of 5000000
- 30816 multiletter control sequences out of 15000+600000
+ 30817 multiletter control sequences out of 15000+600000
  475546 words of font info for 50 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 72i,8n,77p,616b,441s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 72i,8n,77p,616b,434s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on Manuscript.pdf (3 pages, 104381 bytes).
+Output written on Manuscript.pdf (3 pages, 104596 bytes).
 PDF statistics:
- 90 PDF objects out of 1000 (max. 8388607)
- 66 compressed objects within 1 object stream
+ 93 PDF objects out of 1000 (max. 8388607)
+ 69 compressed objects within 1 object stream
  12 named destinations out of 1000 (max. 500000)
- 30 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 38 words of extra memory for PDF output out of 10000 (max. 10000000)
 
