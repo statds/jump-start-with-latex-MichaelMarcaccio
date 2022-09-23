@@ -2,6 +2,7 @@
 \usepackage[margin=1in]{geometry}
 \usepackage{amsmath}
 \usepackage{amsthm}
+\usepackage{float}
 \usepackage{graphicx}
 \usepackage{hyperref}
 \usepackage[utf8]{inputenc}
@@ -50,7 +51,7 @@ An unnumbered equation looks like:
 \[
 f(x)=\frac{1}{\sqrt{3\pi}}\exp
 \]
- 
+
 Table~\ref{tab:rv} summarizes some example draws from some distributions.
 
 
@@ -76,22 +77,14 @@ normal & poisson & gamma \\
 \end{tabular}
 \end{table}
 
-
-
 Figure~\ref{fig:cars} shows the distance against the speed from this dataset.
 
-
-\begin{figure}
+\begin{figure}[H]
   \centering
   \includegraphics[width=\textwidth]{cars.pdf}
   \caption{This is my first figure.}
   \label{fig:cars}
 \end{figure}
-
-
-
-
-
 
 
 
