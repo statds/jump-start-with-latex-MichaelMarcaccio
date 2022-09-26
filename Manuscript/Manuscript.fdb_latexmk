@@ -1,17 +1,17 @@
 # Fdb version 3
-["bibtex Manuscript"] 1664217560 "Manuscript.aux" "Manuscript.bbl" "Manuscript" 1664217785
+["bibtex Manuscript"] 1664217560 "Manuscript.aux" "Manuscript.bbl" "Manuscript" 1664217918
   "Citations.bib" 1664217377 381 5cfcdf26b65793c90b1f1461352840ad ""
-  "Manuscript.aux" 1664217782 1620 6ee425d7f5b5ff5afe4f63a2d465788c "pdflatex"
+  "Manuscript.aux" 1664217916 1620 6ee425d7f5b5ff5afe4f63a2d465788c "pdflatex"
   "c:/texlive/2022/texmf-dist/bibtex/bst/chicago/chicago.bst" 1663114094 37416 2ae04276c51f11eda70770f4081293b7 ""
   (generated)
   "Manuscript.bbl"
   "Manuscript.blg"
-["pdflatex"] 1664217776 "c:/Users/micha/OneDrive/Documents/GitHub/Project/jump-start-with-latex-MichaelMarcaccio/Manuscript/Manuscript.tex" "Manuscript.pdf" "Manuscript" 1664217785
-  "Manuscript.aux" 1664217782 1620 6ee425d7f5b5ff5afe4f63a2d465788c "pdflatex"
+["pdflatex"] 1664217912 "c:/Users/micha/OneDrive/Documents/GitHub/Project/jump-start-with-latex-MichaelMarcaccio/Manuscript/Manuscript.tex" "Manuscript.pdf" "Manuscript" 1664217918
+  "Manuscript.aux" 1664217916 1620 6ee425d7f5b5ff5afe4f63a2d465788c "pdflatex"
   "Manuscript.bbl" 1664217562 438 27c3bed039fa54a444667938452a3d87 "bibtex Manuscript"
-  "Manuscript.out" 1664217782 366 64d8301707c5f11a78e865f365ba9660 "pdflatex"
-  "Manuscript.tex" 1664217774 4875 44058a1296109bdb9a7335f8d7167a2b ""
-  "c:/Users/micha/OneDrive/Documents/GitHub/Project/jump-start-with-latex-MichaelMarcaccio/Manuscript/Manuscript.tex" 1664217774 4875 44058a1296109bdb9a7335f8d7167a2b ""
+  "Manuscript.out" 1664217916 366 64d8301707c5f11a78e865f365ba9660 "pdflatex"
+  "Manuscript.tex" 1664217909 4986 1e1f203dde3f180afb3945c5e775751b ""
+  "c:/Users/micha/OneDrive/Documents/GitHub/Project/jump-start-with-latex-MichaelMarcaccio/Manuscript/Manuscript.tex" 1664217909 4986 1e1f203dde3f180afb3945c5e775751b ""
   "c:/texlive/2022/texmf-dist/fonts/map/fontname/texfonts.map" 1663114966 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "c:/texlive/2022/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1663113510 1004 54797486969f23fa377b128694d548df ""
   "c:/texlive/2022/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1663113510 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
